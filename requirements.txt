@@ -14,9 +14,9 @@ numpy==1.13.3
 pycrypto==2.6.1
 python-dateutil==2.6.1
 pytz==2017.3
-PyYAML==3.12
-requests==2.18.4
+PyYAML==5.4
+requests==2.20
 shellescape==3.4.1
 six==1.11.0
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.15.3
